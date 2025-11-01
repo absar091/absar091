@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**absar091/absar091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 I’m working on **Quizzicallabs AI** and building educational tools
+* 🎯 Passionate about **AI, Web Development, and Cloud Deployments**
+* 🌱 Currently learning **Next.js, Firebase, and LLM integrations**
+* ⚡ Fun fact: I love turning complex ideas into simple user-friendly apps.
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python
+
+**Frameworks & Tools:**
+
+* Next.js
+* React
+* Node.js
+* Firebase / Firestore
+* Tailwind CSS
+
+##
+
+---
+
+Thanks for visiting! 😊
