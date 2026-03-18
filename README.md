@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Building+Quizzicallabs;Hostel+Ledger+;Future+Tech+Creator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+Quizzicallabz+AI;Building+Hostel+Ledger+;Future+Tech+Creator)
 ![Profile Views](https://komarev.com/ghpvc/?username=absar091&color=blue)
 # 👋 Hi, I'm Absar Ahmad Rao
 
@@ -12,7 +12,7 @@
 * 🩺 **DVM (Doctor of Veterinary Medicine) Student** with a passion for technology  
 * 🤖 AI Builder exploring real-world applications in **education & healthcare**  
 * 💻 Strong understanding of **multiple programming languages & full-stack systems**  
-* 🚀 Currently building **Quizzicallabs AI** (smart learning platform)  
+* 🚀 Currently building **Hostel Ledger** (Split Expenses with Ease)  
 * ⚡ Love turning **complex ideas into simple, scalable products**  
 * 🌱 Exploring **LLMs, Firebase, and system design**
 
@@ -60,7 +60,7 @@ AI-powered quiz platform with real-time multiplayer, analytics & adaptive learni
 ### 💰 Hostel Ledger
 
 Smart expense management system for groups with budgeting & insights
-
+https://app.hostelledger.aarx.online/
 ---
 
 ### 🧪 AARX Labs
