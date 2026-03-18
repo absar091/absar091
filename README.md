@@ -1,17 +1,19 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Building+Quizzicallabs;Future+Tech+Creator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Building+Quizzicallabs;Hostel+Ledger+;Future+Tech+Creator)
 ![Profile Views](https://komarev.com/ghpvc/?username=absar091&color=blue)
 # 👋 Hi, I'm Absar Ahmad Rao
 
-🚀 **AI Builder | Full Stack Developer | Founder @ AARX Labs**
+🩺 DVM Student × 🤖 AI Builder × 💻 Full Stack Developer
+🚀 **| Founder @ AARX Labs**
 💡 Building the future of **AI-powered education platforms**
 
 ---
-
 ## 🌐 About Me
 
-* 🧠 Currently building **Quizzicallabs AI** (Smart learning platform)
-* 💻 Focused on **AI + Web + Scalable Systems**
-* ⚡ Love turning **complex ideas into simple products**
+* 🩺 **DVM (Doctor of Veterinary Medicine) Student** with a passion for technology  
+* 🤖 AI Builder exploring real-world applications in **education & healthcare**  
+* 💻 Strong understanding of **multiple programming languages & full-stack systems**  
+* 🚀 Currently building **Quizzicallabs AI** (smart learning platform)  
+* ⚡ Love turning **complex ideas into simple, scalable products**  
 * 🌱 Exploring **LLMs, Firebase, and system design**
 
 ---
