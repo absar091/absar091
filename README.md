@@ -1,6 +1,4 @@
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?
-color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Building+Quizzicallabs;Future+Tech+Creator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Building+Quizzicallabs;Future+Tech+Creator)
 ![Profile Views](https://komarev.com/ghpvc/?username=absar091&color=blue)
 # 👋 Hi, I'm Absar Ahmad Rao
 
