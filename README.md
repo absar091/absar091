@@ -42,6 +42,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absar091\&layout=compact\&theme=tokyonight)
 
 ---
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=absar091&theme=tokyo-night)
 
 ## 🚀 Featured Projects
 
