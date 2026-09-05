@@ -1,83 +1,118 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+Quizzicallabz+AI;Building+Hostel+Ledger+;Future+Tech+Creator)
-![Profile Views](https://komarev.com/ghpvc/?username=absar091&color=blue)
-# 👋 Hi, I'm Absar Ahmad Rao
+<div align="center">
 
-🩺 DVM Student × 🤖 AI Builder × 💻 Full Stack Developer
-🚀 **| Founder @ AARX Labs**
-💡 Building the future of **AI-powered education platforms**
+# Absar Ahmad Rao
 
----
-## 🌐 About Me
+### Founder & Product Builder · Full-Stack Development · AI Systems
 
-* 🩺 **DVM (Doctor of Veterinary Medicine) Student** with a passion for technology  
-* 🤖 AI Builder exploring real-world applications in **education & healthcare**  
-* 💻 Strong understanding of **multiple programming languages & full-stack systems**  
-* 🚀 Currently building **Hostel Ledger** (Split Expenses with Ease)  
-* ⚡ Love turning **complex ideas into simple, scalable products**  
-* 🌱 Exploring **LLMs, Firebase, and system design**
+Building products and digital infrastructure through **AARX Labs**.
+
+[Website](https://aarx.online) · [UniTix](https://unitix.aarx.online)
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## About
 
-### 💻 Languages
+I'm an independent product builder focused on designing and developing practical software products from concept to deployment.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
+My work spans **full-stack development, AI-powered applications, product design, cloud infrastructure, and system architecture**. I enjoy working on complex problems and turning them into simple, reliable products.
 
-### ⚙️ Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge\&logo=firebase)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge\&logo=tailwind-css)
+Currently focused on building **UniTix**, while developing new products and experiments through **AARX Labs**.
 
 ---
 
-## 📊 GitHub Stats
-![Snake animation](https://github.com/absar091/absar091/blob/output/github-contribution-grid-snake.svg)
+## Current Focus
 
-![Stats](https://github-readme-stats.vercel.app/api?username=absar091\&show_icons=true\&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=absar091\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absar091\&layout=compact\&theme=tokyonight)
-
----
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=absar091&theme=tokyo-night)
-
-## 🚀 Featured Projects
-
-### 🧠 Quizzicallabs AI
-
-AI-powered quiz platform with real-time multiplayer, analytics & adaptive learning
-👉 *Your flagship product*
+* Building **UniTix** — digital infrastructure for university communities
+* Developing scalable full-stack applications
+* Exploring AI-powered product experiences
+* Improving distributed and offline-capable systems
+* Designing reliable cloud and backend architecture
+* Building and experimenting through **AARX Labs**
 
 ---
 
-### 💰 Hostel Ledger
+## Featured Projects
 
-Smart expense management system for groups with budgeting & insights
-https://app.hostelledger.aarx.online/
----
+### UniTix
 
-### 🧪 AARX Labs
+A platform designed to modernize how university communities manage events and student activities.
 
-Experimental projects, AI tools & innovation playground
+**Areas of development include:**
 
----
+* Digital ticketing
+* QR-based verification
+* Offline event scanning
+* Society and organizer management
+* Event registrations
+* Financial records and payouts
+* Analytics and operational tools
 
-## 🌍 Connect With Me
-
-* 🌐 Website: https://aarx.online
-* 📧 Email: [absar.ahmad.rao@aarx.online](mailto:absar.ahmad.rao@aarx.online)
-
----
-
-## ⚡ Fun Fact
-
-> I don’t just write code — I build systems that scale 🚀
+**Explore →** https://unitix.aarx.online
 
 ---
+
+### AARX Labs
+
+A product and technology studio focused on building, experimenting with, and exploring new ideas across software, AI, and digital products.
+
+**Explore →** https://aarx.online
+
+---
+
+## Technology
+
+**Languages**
+
+JavaScript · TypeScript · Python
+
+**Frontend**
+
+React · Next.js · Tailwind CSS
+
+**Backend & Services**
+
+Node.js · Firebase · APIs · Authentication · Databases
+
+**Infrastructure**
+
+Azure · Vercel · Git · GitHub · Cloud Deployment
+
+**Currently Exploring**
+
+AI Systems · LLM Applications · Distributed Systems · System Design · Offline-First Architecture
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=absar091&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=absar091&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absar091&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+[![Absar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=absar091\&theme=tokyo-night)](https://github.com/absar091)
+
+---
+
+<div align="center">
+
+### Building products. Solving problems. Shipping systems.
+
+**[aarx.online](https://aarx.online) · [unitix.aarx.online](https://unitix.aarx.online)**
+
+</div>
